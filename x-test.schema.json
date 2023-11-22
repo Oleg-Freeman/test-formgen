@@ -1,3 +1,13 @@
 {
-  "name": "inputGroup"
+  "name": "inputGroup",
+  "setValue": null,
+  "touch": null,
+  "validity": {},
+  "children": [
+    {
+      "name": "button",
+      "label": "New button",
+      "action": null
+    }
+  ]
 }
